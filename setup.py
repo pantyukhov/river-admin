@@ -26,7 +26,7 @@ setup(
         "django",
         "djangorestframework",
         "django-cors-headers",
-        "django-river>=3.0.0",
+        "django-river>=3.3.0",
     ],
     include_package_data=True,
     zip_safe=False,
